@@ -60,7 +60,7 @@ export default function Home({
       </Marquee>
       <Hero
         headline=" Triple x Saints Burn 2 Earn."
-        description=“AN OBJECT IN MOTION STAYS IN MOTION. OUR HEALTH IS WHAT KEEPS US IN MOTION, SO EARN WHILE BEING HEALTHY”
+        description=“An object in motion stays in motion....So get healthy while you get paid”
       />
       <Grid layout="B" variant="filled">
         {products.slice(0, 3).map((product: any, i: number) => (
